@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body{
+    background-color: #FFFFFF;
+}
+
+.imagen{
+    justify-content: center;
+    border: black 1em;
+    align-items: center;
+}
+
+footer{
+    background-color:#242222;
+}
